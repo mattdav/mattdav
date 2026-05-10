@@ -2,9 +2,6 @@
 <h3 align="center">Data scientist · Python developer · Automation enthusiast</h3>
 
 <p align="center">
-  <a href="https://www.leetcode.com/matthieudaviaud">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
   <a href="mailto:matthieu.daviaud@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
